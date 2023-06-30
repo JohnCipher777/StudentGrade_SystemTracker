@@ -8,7 +8,7 @@ A simple grade system tracker
 
 -----------------------------------
 ## INSTALLATION PROCESS FOR WINDOWS CMD
-To install the `CyberZone Console` program, follow these steps:
+To install the `StudentGradeSystemTracker` program, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
