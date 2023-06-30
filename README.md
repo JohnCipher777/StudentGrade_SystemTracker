@@ -7,7 +7,7 @@ A simple grade system tracker
 
 
 -----------------------------------
-## INSTALLATION PROCESS FOR WINDOWS CMD
+## INSTALLATION PROCESS FOR WINDOWS CMD & TERMUX
 To install the `StudentGradeSystemTracker` program, follow these steps:
 
 1. Clone the repository to your local machine:
