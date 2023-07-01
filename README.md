@@ -88,9 +88,9 @@ java MainMobile
 
 
 
-### `Opt`
+### `Option1`
 ![357736472_2347496082099492_2870736158479662277_n](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/ababf914-d1bf-4909-8cb8-69e996aa6ed4)
-ion1`
+
 
 
 
