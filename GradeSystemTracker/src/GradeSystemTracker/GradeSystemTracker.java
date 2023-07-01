@@ -1,5 +1,3 @@
-package GradeSystemTracker;
-
 public class GradeSystemTracker {
     private final String[] studentNames;
     private final double[][] studentGrades;
