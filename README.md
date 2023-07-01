@@ -7,7 +7,7 @@ A simple grade system tracker
 
 
 -----------------------------------
-## INSTALLATION PROCESS FOR `WINDOWS CMD`
+## INSTALLATION PROCESS
 To install the `StudentGradeSystemTracker` program, follow these steps:
 
 1. Clone the repository to your local machine:
@@ -42,7 +42,7 @@ java Main
 
 
 ---------------------------------
-## INSTALLATION PROCESS FOR `Termux`
+## INSTALLATION PROCESS FOR `Termux` Users
 1. Follow 1&2 process above
 
 2. Install the `ecj` package in Termux by running the following command:
@@ -62,20 +62,25 @@ java MainMobile
 ---------------------------------
 ## SYSTEM PREVIEW
 ### Front Page
-![Screenshot (1079)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/778fabf0-7510-4eeb-85e0-8ebf659ee019)
+![Screenshot (1085)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/badcc2de-5143-4f2e-8fab-c65085aeb6b8)
+
 
 
 ### Option1
-![Screenshot (1080)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/806c4413-141a-4d6e-9017-c81eb7b99d94)
+![Screenshot (1086)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/e99b8666-4b4a-4048-9d78-fc4a25c680df)
+
 
 ### Option2
-![Screenshot (1081)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/5015c3ca-34c2-467e-8441-eb5f45a7e4dd)
+![Screenshot (1087)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/c01858bb-6c3e-491c-ad3a-9e50e3e31749)
+
 
 ### Option3
-![Screenshot (1082)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/9585ba78-a040-4692-b20d-806de659d48a)
+![Screenshot (1088)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/445526f3-03d9-43c4-a960-10001d9683fe)
+
 
 ### Option4(exit option)
-![Screenshot (1083)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/a383e28a-687c-491f-b9ab-f987b8cbfb5f)
+![Screenshot (1089)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/8430c52d-9ca1-49b6-a5ff-466b22bf30ea)
+
 
 
 
