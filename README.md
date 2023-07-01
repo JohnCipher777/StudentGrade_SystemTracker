@@ -39,8 +39,27 @@ javac Main.java GradeSystemTracker.java
 ```
 java Main
 ```
----------------------------------
 
+
+---------------------------------
+## INSTALLATION PROCESS FOR `Termux`
+1. Follow 1&2 process above
+
+2. Install the `ecj` package in Termux by running the following command:
+```
+pkg install ecj
+```
+3. Compile the Java code using `ecj`:
+```
+ecj Main.java GradeSystemTracker.java
+```
+4. Run the program by running the following command:
+```
+java Main
+```
+
+
+---------------------------------
 ## SYSTEM PREVIEW
 ### Front Page
 ![Screenshot (1079)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/778fabf0-7510-4eeb-85e0-8ebf659ee019)
