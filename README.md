@@ -51,11 +51,11 @@ pkg install ecj
 ```
 3. Compile the Java code using `ecj`:
 ```
-ecj Main.java GradeSystemTracker.java
+ecj MainMobile.java GradeSystemTracker.java
 ```
 4. Run the program by running the following command:
 ```
-java Main
+java MainMobile
 ```
 
 
