@@ -3,7 +3,6 @@
  FROM       : 𝐂𝐓 𝐈𝐍𝐂𝐎𝐑𝐏𝐎𝐑𝐀𝐓𝐄𝐃
  PATCH DATE : 6/5/23
  * * */
-package GradeSystemTracker;
 import java.io.IOException;
 import java.util.Scanner;
 
