@@ -78,7 +78,7 @@ java MainMobile
 ![Screenshot (1088)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/445526f3-03d9-43c4-a960-10001d9683fe)
 
 
-### vOption4[exit]`
+### `Option4[exit]`
 ![Screenshot (1089)](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/8430c52d-9ca1-49b6-a5ff-466b22bf30ea)
 
 ---------------------------------
@@ -88,7 +88,7 @@ java MainMobile
 
 
 
-### `Opt
+### `Opt`
 ![357736472_2347496082099492_2870736158479662277_n](https://github.com/ShadowR3aper/StudentGrade_SystemTracker/assets/123635909/ababf914-d1bf-4909-8cb8-69e996aa6ed4)
 ion1`
 
