@@ -16,9 +16,13 @@ git clone https://github.com/ShadowR3aper/StudentGrade_SystemTracker.git
 ```
 2. Navigate to the project directory:
 ```
-cd gradesystemtracker\src
+cd gradesystemtracker\src\gradesystemtracker
 ```
-3. Run the program by running the following command:
+3. Compile the program by running the following command:
+```
+javac Main.java GradeSystemTracker.java
+```
+4. Run the program by running the following command:
 ```
 java Main
 ```
