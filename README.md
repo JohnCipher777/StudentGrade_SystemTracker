@@ -12,11 +12,24 @@ To install the `StudentGradeSystemTracker` program, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/ShadowR3aper/StudentGrade_SystemTracker.git
+https://github.com/ShadowR3aper/StudentGrade_SystemTracker.git
 ```
 2. Navigate to the project directory:
 ```
-cd gradesystemtracker\src\gradesystemtracker
+cd StudentGrade_SystemTracker
+```
+```
+cd GradeSystemTracker
+```
+```
+cd src
+```
+```
+cd GradeSystemTracker
+```
+or you can just directly do this:
+```
+cd StudentGrade_SystemTracker\GradeSystemTracker\src\GradeSystemTracker
 ```
 3. Compile the program by running the following command:
 ```
